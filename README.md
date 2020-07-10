@@ -25,4 +25,5 @@ The get_forecasts() method will return the predictions for future dates and will
 
 ## Dummy folders
 This dummy files were made to study the structure of the data and to decode.
+
 Data pre-processing pipeline requires the observance of certain rules in relation to the format of the raw data provided by the client, so this files may help you on how to update your data. You can also read the definition of requirements with a summary of considered inputs.
