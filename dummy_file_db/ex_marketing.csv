@@ -1,0 +1,4 @@
+order_date;sku;market_brand;product_family;promotion_date_start;promotion_date_end;promotion_type;promotion_amount;promotion_target
+2020-04-07;p1;AZUL;DOMESTIC;2020-04-01;2020-05-01;free shipping;-0,1;general
+2020-04-25;p2;;INDUSTRIAL;2019-05-01;2019-12-31;advertisement;;general
+2020-05-03;p3;VERDE;INDUSTRIAL;2020-05-01;2020-05-31;discount;-0,25;308285|308300

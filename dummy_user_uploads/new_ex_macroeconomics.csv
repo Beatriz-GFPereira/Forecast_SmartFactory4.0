@@ -1,0 +1,4 @@
+﻿order_date;sku;client_id;client_location;gdp_client;gdp;industrial_index_client;industrial_index;trade_values_balance_client;trade_values_balance;stock_market_index_client;stock_market_index;commodity_price;exchange_rate;unemployment_rate_client;unemployment_rate
+13/05/2020;p1;308273;PT;240,7;240,7;85,5;63,38;-1565;-1565;-0,0350;-0,0350;0,0126;1;0,0850;0,0850
+03/05/2020;p3;308285;ES;1687,5;240,7;180,6;75,95;-732;75,95;0,0250;0,0120;1,7550;1;0,0750;0,0850
+25/04/2020;p2;309000;PT;240,7;240,7;64,5;64,5;-1565;-1565;-0,0089;-0,0089;-0,0089;1;0,0850;0,0850

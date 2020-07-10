@@ -1,0 +1,4 @@
+﻿order_date;sku;client_id;exp_delivery_date;sale_date;actual_sold_quantity;actual_sold_units;sales_channel;sales_agent;client_location;unitary_price;payment_timing
+13/05/2020;p1;308273;13/05/2020;13/05/2020;2112;42;CASH & CARRY;Luis Marques;PT;1,237;90
+03/05/2020;p3;308285;06/05/2020;08/05/2020;4250;85;AWAY FROM HOME;Ana Silva;ES;5,785;120
+25/04/2020;p2;309000;30/04/2020;02/05/2020;6608;138;AWAY FROM HOME;Mario Cruz;PT;3,785;90
