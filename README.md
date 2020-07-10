@@ -1,5 +1,5 @@
 # Forecast_SmartFactory4.0
-Prototype of demand forecast module from SMART FACTORY 4.0 project.
+Prototype of demand forecast module from SMART FACTORY 4.0 project by Closer.
 
 # Best model Algorithm formulation and implementation
 The main algorithm routine is implemented in the best_model file.
