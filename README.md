@@ -8,7 +8,7 @@ ERROR_TARGET - Max error target threshold for best selection defined in implemen
 
 MODELS_ENABLED - List of all forecasting models defined by the user.
 
-sku_dict - Dictionary with all SKUs and his data (from DataProcess class).
+sku_dict - Dictionary with all SKUs and its data (from DataProcess class).
 
 periods - Period to predict in the future defined by the user.
 
